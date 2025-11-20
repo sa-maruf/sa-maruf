@@ -5,7 +5,7 @@
 
 <div style="display: flex; justify-content: center; margin-top: 5rem; margin-bottom: 5rem;">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=ed5a00&center=true&vCenter=true&width=1400&lines=Hi+🖐🏻+Welcome+to+My+Darkside+⚫;I+am+Eftajul+Islam+Shadi+🥷🏻;MERN+Stack+Developer+%7C+Full+Stack+Enthusiast;I+thrive+on+exploring+new+technologies;and+solving+complex+problems"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=ed5a00&center=true&vCenter=true&width=1400&lines=Hi+🖐🏻+Welcome+to+My+Darkside+⚫;I+am+Sanowar+Alam+Maruf+🥷🏻;MERN+Stack+Developer+%7C+Full+Stack+Enthusiast;I+thrive+on+exploring+new+technologies;and+solving+complex+problems"
     alt="Typing SVG"
     style="max-width: 100%; height: auto;" />
 </div>
