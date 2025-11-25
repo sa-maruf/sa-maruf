@@ -81,7 +81,7 @@
 <section id="contact" style="color: #fff; padding: 2rem; background-color: #0e0e0e; border-radius: 10px; max-width: 700px; margin: auto;">
   <ul style="list-style: none; padding-left: 0; text-align: center; font-size: 1rem;">
     <li><strong>Email:</strong> <a href="sanowaralammaruf@gmail.com" style="color: #4EA1D3;">sanowaralammaruf@gmail.com</a></li>
-    <li><strong>LinkedIn:</strong> <a href="" target="_blank" style="color: #4EA1D3;">hh</a></li>
+    <li><strong>LinkedIn:</strong> <a href="" target="_blank" style="color: #4EA1D3;">linkedin.com/sanowar.alam</a></li>
     <li><strong>Facebook:</strong> <a href="https://www.facebook.com/sam.freelancing.ox" target="_blank" style="color: #4EA1D3;">facebook.com/sam.freelancing</a></li>
     <li><strong>Facebook:</strong> <a href="https://www.instagram.com/samfreelancingox/" target="_blank" style="color: #4EA1D3;">instagram.com/sam.freelancing</a></li>
     <li><strong>Portfolio:</strong> <a href="https://www.eftajulshadi.dev" target="_blank" style="color: #4EA1D3;">eftajulshadi.dev</a></li>
