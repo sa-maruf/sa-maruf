@@ -84,7 +84,7 @@
     <li><strong>LinkedIn:</strong> <a href="" target="_blank" style="color: #4EA1D3;">linkedin.com/sanowar.alam</a></li>
     <li><strong>Facebook:</strong> <a href="https://www.facebook.com/sam.freelancing.ox" target="_blank" style="color: #4EA1D3;">facebook.com/sam.freelancing</a></li>
     <li><strong>Facebook:</strong> <a href="https://www.instagram.com/samfreelancingox/" target="_blank" style="color: #4EA1D3;">instagram.com/sam.freelancing</a></li>
-    <li><strong>Portfolio:</strong> <a href="https://www.eftajulshadi.dev" target="_blank" style="color: #4EA1D3;">eftajulshadi.dev</a></li>
+    <li><strong>Portfolio:</strong> <a href="https://www.eftajulshadi.dev" target="_blank" style="color: #4EA1D3;">https://samdev</a></li>
   </ul>
 </section>
 
